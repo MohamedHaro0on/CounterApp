@@ -1,0 +1,51 @@
+.Items {
+    margin : 20px 0px ;
+    button {
+        outline: none;
+        background-color: none;
+        border-radius: 5px;
+        padding: 10px;
+        border: none;
+        margin: 0px 5px;
+        cursor: pointer;
+        transition: all 0.2s;
+        color: #fff;
+    }
+    .Reset {
+        background-color: #28a745;
+        border-color: #28a745;
+        color: #fff;
+        &:focus {
+            box-shadow: 0 0 0 0.2rem rgba(72, 180, 97, 0.5);
+        }
+    }
+    .Restart {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+    ul {
+        padding: 0px;
+        margin-top: 0px;
+        list-style: none;
+        li {
+            display: flex;
+            margin: 20px;
+            align-items : center ;
+            span {
+                margin: 0px 15px;
+            }
+            .Increament {
+                background-color: #545b62;
+                border-color: #4e555b;
+            }
+            .Decreament {
+                background-color: #117a8b;
+                border-color: #10707f;
+            }
+            .Delete {
+                background-color: #dc3545;
+                border-color: #dc3545;
+            }
+        }
+    }
+}

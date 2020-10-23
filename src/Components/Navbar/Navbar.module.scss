@@ -1,0 +1,21 @@
+.Header{
+    padding : 20px ;
+    background-color : #f8f9fa ;
+    display : flex; 
+    align-items : center ;
+    .ShopCart{
+       height : 80px !important;
+       max-width : 100px ;
+       border-radius : 20px ;
+    }
+    .Counter{
+        background-color : #17a2b8 ;
+        border-radius : 10px ;
+        color : #fff ;
+        font-weight: bold;
+        padding : 10px ;
+        min-width: 50px ;
+        text-align : center ;
+        margin: 0px 15px ;
+    }
+}
