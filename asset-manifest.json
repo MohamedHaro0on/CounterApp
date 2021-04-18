@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/counter-app/static/css/main.13b8e13a.chunk.css",
+    "main.js": "/counter-app/static/js/main.fabdfecb.chunk.js",
+    "main.js.map": "/counter-app/static/js/main.fabdfecb.chunk.js.map",
+    "runtime-main.js": "/counter-app/static/js/runtime-main.7c4e8537.js",
+    "runtime-main.js.map": "/counter-app/static/js/runtime-main.7c4e8537.js.map",
+    "static/js/2.938dc34d.chunk.js": "/counter-app/static/js/2.938dc34d.chunk.js",
+    "static/js/2.938dc34d.chunk.js.map": "/counter-app/static/js/2.938dc34d.chunk.js.map",
+    "index.html": "/counter-app/index.html",
+    "precache-manifest.0ee50db3f78f4f03c61e421186d33db6.js": "/counter-app/precache-manifest.0ee50db3f78f4f03c61e421186d33db6.js",
+    "service-worker.js": "/counter-app/service-worker.js",
+    "static/css/main.13b8e13a.chunk.css.map": "/counter-app/static/css/main.13b8e13a.chunk.css.map",
+    "static/js/2.938dc34d.chunk.js.LICENSE.txt": "/counter-app/static/js/2.938dc34d.chunk.js.LICENSE.txt",
+    "static/media/shopping-cart-icon.webp": "/counter-app/static/media/shopping-cart-icon.6191f436.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c4e8537.js",
+    "static/js/2.938dc34d.chunk.js",
+    "static/css/main.13b8e13a.chunk.css",
+    "static/js/main.fabdfecb.chunk.js"
+  ]
+}
